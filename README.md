@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna sadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna sadar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/krishna sadar](https://www.linkedin.com/in/krishna-sadar-7238682b3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna sadar" height="30" width="40" /></a>
 <a href="https://fb.com/krishna sadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna sadar" height="30" width="40" /></a>
 <a href="https://instagram.com/soul_taker_952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soul_taker_952" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishnasadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnasadar" height="30" width="40" /></a>
